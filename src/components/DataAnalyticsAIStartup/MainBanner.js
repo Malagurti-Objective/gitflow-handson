@@ -39,7 +39,7 @@ const MainBanner = () => {
                         <div className="col-lg-5 col-md-12">
                             <div className="banner-content">
                                 <ReactWOW delay='.1s' animation='fadeInLeft'>
-                                    <h1>Adestec Hacker Space</h1>
+                                    <h1>Hands On gitflow</h1>
                                 </ReactWOW>
 
                                 <ReactWOW delay='.1s' animation='fadeInLeft'>
