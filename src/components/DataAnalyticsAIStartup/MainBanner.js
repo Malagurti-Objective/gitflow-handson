@@ -50,7 +50,7 @@ const MainBanner = () => {
                                     <div className="btn-box">
                                         <Link to="/about-us" className="default-btn">
                                             <i className="flaticon-right"></i> 
-                                            Sobre o Espaço <span></span>
+                                            Sobre o handson <span></span>
                                         </Link>
 
                                         <Link 
